@@ -24,3 +24,14 @@ It is worth noting that Friedman's conclusion is slightly more nuanced than its 
 > there is one and only one social responsibility of business--to use its resources and engage in activities designed to increase its profits so long as it stays within the rules of the game, which is to say, engages in open and free competition without deception or fraud.
 
 If he is willing to impose these conditions on the pursuit of profit, why stop there? Does his prescription of playing "within the rules of the game" carry any moral weight? It seems to me that his concerns about deception, fraud, and free competition show that businesses should indeed be concerned about the public good in a way that a sole focus on profits would not allow.
+
+* [Three Foundational Assumptions](sources/beal-2014-c2.pdf) from _Corporate Social Responsibility: Definition, Core Issues, and Recent Developments_ by Brent D. Beal (2014)
+
+Beal makes clear the difficulties in coming to a single definition of CSR:
+> \[...\] defining CSR requires making the role of business in society explicit by enumerating societal obligations. Taken far enough, defining CSR becomes a political or ideological exercise, because it requires the implementation of a vision of how society’s political economy should be structured, bounded, and ultimately, controlled. It shouldn’t be surprising that there is little agreement on the specifics.
+CSR is, by its nature, an “essentially contested concept.”
+
+Beal is in direct conversation with Friedman's take on CSR throughout this book and cites him several times. Beal finds the following three assumptions sufficient to rebut Friedman's argument that an "honest profit" is enough:
+1. Business and society overlap in important ways and are mutually dependent.
+2. Economic markets are social institutions. In order for markets to function properly, a number of supporting institutions are required, and certain conditions must be met.
+3. Societies expect certain outcomes from economic systems. If these outcomes aren’t realized, then it’s reasonable for societies to attempt to modify or change their economic systems so that these outcomes are obtained. 
